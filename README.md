@@ -3,3 +3,6 @@
 1.[函数节流(throttle)](https://github.com/fuhangyl/JavaScriptNote/issues/1)
 
 2.[函数防抖(debounce)](https://github.com/fuhangyl/JavaScriptNote/issues/2)
+
+2.[this绑定解析](https://github.com/fuhangyl/JavaScriptNote/issues/3)
+
