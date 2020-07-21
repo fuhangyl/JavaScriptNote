@@ -7,3 +7,6 @@
 3.[this绑定解析](https://github.com/fuhangyl/JavaScriptNote/issues/3)
 
 4.[['1', '2', '3'].map(parseInt) what & why ?](https://github.com/fuhangyl/JavaScriptNote/issues/4)
+
+5.[对象数组去重](https://github.com/fuhangyl/JavaScriptNote/issues/5)
+
