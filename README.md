@@ -4,5 +4,6 @@
 
 2.[函数防抖(debounce)](https://github.com/fuhangyl/JavaScriptNote/issues/2)
 
-2.[this绑定解析](https://github.com/fuhangyl/JavaScriptNote/issues/3)
+3.[this绑定解析](https://github.com/fuhangyl/JavaScriptNote/issues/3)
 
+4.[['1', '2', '3'].map(parseInt) what & why ?](https://github.com/fuhangyl/JavaScriptNote/issues/3)
