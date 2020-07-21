@@ -6,4 +6,4 @@
 
 3.[this绑定解析](https://github.com/fuhangyl/JavaScriptNote/issues/3)
 
-4.[['1', '2', '3'].map(parseInt) what & why ?](https://github.com/fuhangyl/JavaScriptNote/issues/3)
+4.[['1', '2', '3'].map(parseInt) what & why ?](https://github.com/fuhangyl/JavaScriptNote/issues/4)
