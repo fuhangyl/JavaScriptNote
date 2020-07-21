@@ -12,20 +12,20 @@
 
 #### JS系列篇之继承
 
-1.[JS继承-前置知识](https://github.com/fuhangyy/JavaScrip-Blog/issues/4)
+1.[JS继承-前置知识](https://github.com/fuhangyl/JavaScriptNote/issues/6)
 
-2.[JS继承-原型链继承](https://github.com/fuhangyy/JavaScrip-Blog/issues/5)
+2.[JS继承-原型链继承](https://github.com/fuhangyl/JavaScriptNote/issues/7)
 
-3.[JS继承-借用构造函数继承](https://github.com/fuhangyy/JavaScrip-Blog/issues/6)
+3.[JS继承-借用构造函数继承](https://github.com/fuhangyl/JavaScriptNote/issues/8)
 
-4.[JS继承-组合继承](https://github.com/fuhangyy/JavaScrip-Blog/issues/7)
+4.[JS继承-组合继承](https://github.com/fuhangyl/JavaScriptNote/issues/9)
 
-5.[JS继承-原型式继承](https://github.com/fuhangyy/JavaScrip-Blog/issues/8)
+5.[JS继承-原型式继承](https://github.com/fuhangyl/JavaScriptNote/issues/10)
 
-6.[JS继承-寄生式继承](https://github.com/fuhangyy/JavaScrip-Blog/issues/9) 
+6.[JS继承-寄生式继承](https://github.com/fuhangyl/JavaScriptNote/issues/11) 
 
-7.[JS继承-寄生组合式继承](https://github.com/fuhangyy/JavaScrip-Blog/issues/10) 
+7.[JS继承-寄生组合式继承](https://github.com/fuhangyl/JavaScriptNote/issues/12) 
 
-8.[JS继承-混入方式继承多个对象](https://github.com/fuhangyy/JavaScrip-Blog/issues/11) 
+8.[JS继承-混入方式继承多个对象](https://github.com/fuhangyl/JavaScriptNote/issues/13) 
 
-9.[JS继承-ES6中Class继承](https://github.com/fuhangyy/JavaScrip-Blog/issues/12) 
+9.[JS继承-ES6中Class继承](https://github.com/fuhangyl/JavaScriptNote/issues/14) 
