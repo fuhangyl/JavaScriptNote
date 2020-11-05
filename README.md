@@ -12,6 +12,8 @@
 
 6.[如何实现浅拷贝和深拷贝](https://github.com/fuhangyl/JavaScriptNote/issues/15)(部分内容未完成)
 
+7.[模拟实现画中画功能](https://github.com/fuhangyl/JavaScriptNote/issues/16)(部分内容未完成)
+
 #### JS系列篇之继承
 
 1.[JS继承-前置知识](https://github.com/fuhangyl/JavaScriptNote/issues/6)
